@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamhasan
 - 👀 I’m interested in Programming and Data
-- 🌱 I’m currently learning Java in College
+- 🌱 I’m currently learning Java, Kotlin, Python in College
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me at :
 -    Instagram @_shamhasan
