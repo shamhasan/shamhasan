@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shamhasan
-- 👀 I’m interested in Mobile Programming 
+- 👀 I’m interested in Mobile Apps  
 - 🌱 I’m currently learning Dart, Java ,Kotlin ,Python in College
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me at :
