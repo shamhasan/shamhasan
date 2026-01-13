@@ -34,6 +34,4 @@ I am a Computer Science student passionate about building seamless mobile applic
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shamhasan&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamhasan&layout=compact&theme=radical&hide_border=true&hide=javascript,html,css,php,scss,ts" height="150" alt="languages graph" />
 </div>
