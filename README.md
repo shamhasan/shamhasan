@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="100"/>
   <h1>Hi there, I'm Ihtishamul Hasan!</h1>
   <p><b>Mobile App Developer | CS Student</b></p>
 </div>
@@ -32,10 +32,8 @@ I am a Computer Science student passionate about building seamless mobile applic
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-### 📊 Github Stats
-
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shamhasan&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamhasan&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shamhasan&layout=compact&theme=radical&hide_border=true&hide=javascript,html,css,php,scss,ts" height="150" alt="languages graph" />
 </div>
